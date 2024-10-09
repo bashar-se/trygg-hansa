@@ -1,0 +1,23 @@
+556677-8899,Kund AB,Anders Andersson,Storgatan 1, 123 45 Staden, anders.andersson@kundab.se, 123-456789
+556677-8899,Kund AB,Anders Andersson,Storgatan 1, 123 45 Staden, info@kundab.se, 987-654321
+223344-5566,Testföretaget AB,Lisa Svensson,Gatan 2, 543 21 Staden, lisa@testforetaget.se, 987-654321
+998877-6655,Exempel Company,Anna Karlsson,Vägen 3, 678 90 Staden, anna.karlsson@examplecompany.com, 456-789012
+998877-6655,Exempel Company,Stina Nilsson,Vägen 3, 678 90 Staden, stina.N@examplecompany.com, 345-678901
+998877-6655,Exempel Company,Stina Nilsson,Vägen 3, 678 90 Staden, support@examplecompany.com, 345-678901
+112233-4455,Provföretaget AB,Per Nilsson,Allégatan 4, 210 54 Staden, per@provforetaget.se, 789-012345
+112233-4455,Provföretaget AB,Per Nilsson,Allégatan 4, 210 54 Staden, sales@provforetaget.se, 678-901234
+334455-6677,Fiktivt Företag AB,Maria Eriksson,Hörnet 5, 543 21 Staden, maria.fiktivt@foretaget.se, 345-678901
+334455-6677,Fiktivt Företag AB,Maria Eriksson,Hörnet 5, 543 21 Staden, info@foretaget.se, 901-234567
+556633-9911,Dummy Company,Erik Johansson,Vägen 6, 678 90 Staden, erik.dummy@company.se, 678-901234
+556633-9911,Dummy Company,Erik Johansson,Vägen 6, 678 90 Staden, support@company.se, 567-890123
+556677-8899,Kund AB,Anders Andersson,Storgatan 1, 123 45 Staden, anders.andersson@kundab.se, 123-456789
+223344-5566,Testföretaget AB,Lisa Svensson,Gatan 2, 543 21 Staden, lisa@testforetaget.se, 987-654321
+998877-6655,Exempel Company,Anna Karlsson,Vägen 3, 678 90 Staden, anna.karlsson@examplecompany.com, 456-789012
+112233-4455,Provföretaget AB,Per Nilsson,Allégatan 4, 210 54 Staden, per@provforetaget.se, 789-012345
+334455-6677,Fiktivt Företag AB,Maria Eriksson,Hörnet 5, 543 21 Staden, maria.fiktivt@foretaget.se, 345-678901
+556633-9911,Dummy Company,Erik Johansson,Vägen 6, 678 90 Staden, erik.dummy@company.se, 678-901234
+778899-1122,Test Company,Karin Gustafsson,Gatan 7, 123 45 Staden, karin.testcompany@company.com, 901-234567
+443322-5566,Exempelföretaget AB,Anders Svensson,Storgatan 8, 210 54 Staden, anders@exempelforetaget.se, 234-567890
+665544-8877,Sample Company,Lisa Karlsson,Gatan 9, 543 21 Staden, lisa.sample@company.se, 567-890123
+990011-2233,ABC Företaget AB,Mattias Lindqvist,Vägen 10, 678 90 Staden, mattias@abcforetaget.se, 890-123456
+.
